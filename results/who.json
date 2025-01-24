@@ -1,0 +1,62 @@
+[
+    {
+        "question":"Did Florian Wirtz perform more passes than Julian Brandt in game week 9?",
+        "ground_truth":"Yes, Florian Wirtz performed more passes.",
+        "response":"Yes, Florian Wirtz performed more passes than Julian Brandt in game week 9. Wirtz completed 49 out of 55 passes, while Brandt completed 12 out of 14 passes.",
+        "eval":true
+    },
+    {
+        "question":"What teams are as of game week 11 placed 1 to 4? In what form are those teams?",
+        "ground_truth":"1. Leverkusen - Form: Good, 2. Bayern - Form: Good, 3. Stuttgart - Form: Bad, 4. Borussia Dortmund - Form: Bad",
+        "response":"As of game week 11, the teams placed 1 to 4 in the Bundesliga are:\n\n1. Leverkusen - Form: Good\n2. Bayern - Form: Good\n3. Stuttgart - Form: Bad\n4. Borussia Dortmund - Form: Bad",
+        "eval":true
+    },
+    {
+        "question":"Which defender performed the most passes during the game Borussia Dortmund against Bayern Munich?",
+        "ground_truth":"Mats Hummels made the most passes",
+        "response":"Mats Hummels performed the most passes during the game Borussia Dortmund against Bayern Munich.",
+        "eval":true
+    },
+    {
+        "question":"Which player performed the most passes that resulted in an offside call during the match Bayern against Freibung in game week 7?",
+        "ground_truth":"Kingsley Coman made the most passes that led to an offside.",
+        "response":"Manuel Gulde from Freiburg performed the most passes that resulted in an offside call during the match against Bayern in game week 7.",
+        "eval":false
+    },
+    {
+        "question":"Which player perfromed the most passes that directly contributed (assists) to a goal?",
+        "ground_truth":"Leroy San\u00e9 perfromed the most passes directly contributing to a goal.",
+        "response":"Leroy San\u00e9 from Bayern performed the most passes that directly contributed to a goal, with two assists: one to Harry Kane in Game Week 9 and another in Game Week 11.",
+        "eval":true
+    },
+    {
+        "question":"Which forward scored the most goals in Game Week 8? How many goals did he score?",
+        "ground_truth":"Lo\u00efs Openda scored 2 goals in the Darmstadt vs Leipzig match",
+        "response":"The forward who scored the most goals in Game Week 8 is Florian Kainz from FC Koln, with 2 goals.",
+        "eval":false
+    },
+    {
+        "question":"Which player perfromed the most successful passes from a field zone to field zone 12 during Game Weeks 7 to 11?",
+        "ground_truth":"Leroy San\u00e9 perfromed the most successful passes into Field Zone 12",
+        "response":"Michael Zetterer from Werder Bremen performed the most successful passes to field zone 12 during Game Weeks 7 to 11.",
+        "eval":false
+    },
+    {
+        "question":"Does Leroy San\u00e9 deliver a better performance against average or bad teams? What was his average rating against bad teams? What is his average rating against average teams?",
+        "ground_truth":"He performed better against average teams with an average rating of 9.15, compared to against bad teams where he had an average rating of 8.7.",
+        "response":"Leroy San\u00e9 delivers better performances against average teams compared to bad teams. His average rating against bad teams is 7.67, while his average rating against average teams is 7.56.",
+        "eval":false
+    },
+    {
+        "question":"In Game Week 10, Union played against Frankfurt. Which forward ended the game having an outstanding performance? What was his rating?",
+        "ground_truth":"Omar Marmoush had an outstanding performance. He had a rating of 8.5.",
+        "response":"Omar Marmoush from Eintracht Frankfurt had an outstanding performance in Game Week 10 against Union Berlin, with a rating of 8.51.",
+        "eval":true
+    },
+    {
+        "question":"What bad Bundesliga teams are as of game week 9 in good form?",
+        "ground_truth":"No bad teams are currently in good form",
+        "response":"As of game week 9, the only 'bad' Bundesliga team in good form is Darmstadt, which is placed twelfth in the league.",
+        "eval":false
+    }
+]

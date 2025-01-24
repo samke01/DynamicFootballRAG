@@ -1,0 +1,62 @@
+[
+    {
+        "question":"How many goals were scored after the 90th minute during Game Weeks 7 to 11?",
+        "ground_truth":"8 goals were scored after the 90th minute during Game Weeks 7 to 11.",
+        "response":"A total of 6 goals were scored after the 90th minute during Game Weeks 7 to 11.",
+        "eval":false
+    },
+    {
+        "question":"In which game half were the most goals scored during Game Weeks 7 to 11? How many goals were scored in each half?",
+        "ground_truth":"The most goals were scored during the second half. 82 goals were scored in the first half, and 83 goals were scored in the second half during Game Weeks 7 to 11.",
+        "response":"During Game Weeks 7 to 11, the game with the most goals scored was Bayern vs. Heidenheim in Game Week 11, where a total of 6 goals were scored (Bayern 4:2 Heidenheim). The goals scored in each half were as follows: \n\nFirst Half: 2 goals (Bayern 2:0 Heidenheim)  \nSecond Half: 4 goals (Bayern 2:2 Heidenheim)",
+        "eval":false
+    },
+    {
+        "question":"When was the fastest goal scored during the games from Game Week 7 to 11? Who scored the goal?",
+        "ground_truth":"Lois Openda scored the fastest goal in the 0:45 minute in Game Week 8.",
+        "response":"The fastest goal scored during the games from Game Week 7 to 11 was at 1:53 in Game Week 10, and it was scored by Omar Marmoush from Eintracht Frankfurt.",
+        "eval":false
+    },
+    {
+        "question":"When did Harry Kane score his goals against Darmstadt in Game Week 9?",
+        "ground_truth":"Harry Kane scored in the 50:55 minute, 68:16 minute, and 87:15 minute.",
+        "response":"Harry Kane scored his goals against Darmstadt in Game Week 9 at the following times: 50:55, 68:16, and 87:15.",
+        "eval":true
+    },
+    {
+        "question":"Did Borussia Dortmund lead against Eintracht Frankfurt at the end of the first half in Game Week 9?",
+        "ground_truth":"Borussia Dortmund did not lead against Eintracht Frankfurt at the end of the first half in Game Week 9.",
+        "response":"No, Borussia Dortmund did not lead against Eintracht Frankfurt at the end of the first half in Game Week 9. The score at that time was Borussia Dortmund 1:2 Eintracht Frankfurt.",
+        "eval":true
+    },
+    {
+        "question":"In what minute was Tiago Tomas substituted in the game VFL Wolfsburg against SV Werder Bremen in Game Week 10?",
+        "ground_truth":"Tiago Tomas was substituted in the 56:46 minute.",
+        "response":"Tiago Tom\u00e1s was substituted on in the game against SV Werder Bremen in Game Week 10 at minute 56:46.",
+        "eval":true
+    },
+    {
+        "question":"In what minute(s) did RBL score their goals against 1. FC Koln during their match in Game Week 9?",
+        "ground_truth":"RBL scored in the following minutes: 14:25, 42:46, 39:48, 47:03, 87:06, 90:54.",
+        "response":"RBL scored their goals against 1. FC Koln in the following minutes: 14:25, 39:48, 42:46, 47:3, 87:6, and 90:54.",
+        "eval":true
+    },
+    {
+        "question":"In which Game Week were the most goals scored?",
+        "ground_truth":"The most goals were scored in Game Week 9.",
+        "response":"The most goals were scored in Game Week 9, where Bayern scored 8 goals against Darmstadt.",
+        "eval":true
+    },
+    {
+        "question":"In Game Week 7, Borussia Dortmund played against Union Berlin. In what minute(s) did Mats Hummels recieve a card?",
+        "ground_truth":"Mats Hummels committed a foul, leading to him receiving a card in the 29:51 minute.",
+        "response":"Mats Hummels received a card in the 29th minute of the game against Union Berlin.",
+        "eval":true
+    },
+    {
+        "question":"Who are the players that scored an own goal, game week 9? In what minute did they score the own goal?",
+        "ground_truth":"Keven Schlotterbeck scored an own goal in the 58:24 minute. Sebastian Bornauw scored an own goal in the 78:21 minute. Robin Knoche scored an own goal in the 37:38 minute. Jonas F\u00f6hrenbach scored an own goal in the 50:59 minute.",
+        "response":"The players who scored own goals in Game Week 9 are:\n\n1. Keven Schlotterbeck (Bochum) - scored an own goal at minute 58:24.\n2. Robin Knoche (Union Berlin) - scored an own goal at minute 37:38.\n3. Sebastiaan Bornauw (Wolfsburg) - scored an own goal at minute 78:21.\n4. Jonas F\u00f6hrenbach (FC Heidenheim) - scored an own goal at minute 50:59.",
+        "eval":true
+    }
+]

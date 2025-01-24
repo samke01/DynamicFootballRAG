@@ -1,0 +1,62 @@
+[
+    {
+        "question":"From what field zone were the most goals scored, Game Weeks 7 to 11?",
+        "ground_truth":"The most goals were scored from Field Zone 12.",
+        "response":"The most goals scored from field zone 12 during Game Weeks 7 to 11 were 22 goals.",
+        "eval":true
+    },
+    {
+        "question":"From what field zone were the most key passes played that led to a goal, Game Week 9?",
+        "ground_truth":"The most passes contributing to a goal were played from Zone 11.",
+        "response":"The most key passes that led to a goal in Game Week 9 were played from field zone 12.",
+        "eval":false
+    },
+    {
+        "question":"From what field zone did Noussair Mazraoui perform the passes that directly contributed to goals from Harry Kane and Thomas M\u00fcller in the match Bayern against Darmstadt, game week 9?",
+        "ground_truth":"The pass was performed both times from field zone 6.",
+        "response":"Noussair Mazraoui performed the passes that directly contributed to goals from Harry Kane and Thomas M\u00fcller from field zone 6.",
+        "eval":true
+    },
+    {
+        "question":"From what field zone did Marvin Ducksch score his freekick against Wolfsburg, game week 10? Where did he place the ball?",
+        "ground_truth":"From Field Zone 11. The ball was placed in the top right corner.",
+        "response":"Marvin Ducksch scored his free kick against Wolfsburg from field zone 11, placing the ball high into the top right corner.",
+        "eval":true
+    },
+    {
+        "question":"In Game Week 7, Bayern M\u00fcnchen played against Freiburg. From what field zones did Kingsley Coman perform passes that led to an offside?",
+        "ground_truth":"From Zone 5 and Zone 12.",
+        "response":"In Game Week 7, Kingsley Coman performed passes that led to an offside from field zone 5 and field zone 12.",
+        "eval":true
+    },
+    {
+        "question":"From what field zone did Eintracht Frankfurt score the most right-foot goals, game weeks 7 to 11?",
+        "ground_truth":"From Field Zone 12.",
+        "response":"Eintracht Frankfurt scored the most right-foot goals from field zone 12 during game weeks 7 to 11.",
+        "eval":true
+    },
+    {
+        "question":"From what field zone did Stuttgats player Chris F\u00fchrich perform the most take-ons, game week 9?",
+        "ground_truth":"From Field Zone 17.",
+        "response":"Chris F\u00fchrich performed the most take-ons from field zone 17 during game week 9.",
+        "eval":true
+    },
+    {
+        "question":"From what field zone did Florian Wirtz perform the most passes during the game Leverkusen against Freiburg, game week 9?",
+        "ground_truth":"From Field Zone 11.",
+        "response":"Florian Wirtz performed the most passes from field zone 11 during the game against Freiburg in game week 9.",
+        "eval":true
+    },
+    {
+        "question":"From which field zone did Harry Kane receive the most passes into field zone 12 during Bayern Munich vs. Borussia Dortmund, game week 10?",
+        "ground_truth":"From Field Zone 5.",
+        "response":"Harry Kane received the most passes into field zone 12 from field zone 6 during the Bayern Munich vs. Borussia Dortmund match in game week 10.",
+        "eval":false
+    },
+    {
+        "question":"Which field zones did Ivan Ordets engage in aerial duels during game week 9?",
+        "ground_truth":"From Field Zone 11 and Field Zone 3.",
+        "response":"During game week 9, Ivan Ordets engaged in aerial duels in field zones 4 and 11.",
+        "eval":false
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "GK": "goalkeeper",
+    "DR": "right defender",
+    "DC": "center defender",
+    "DL": "left defender",
+    "DMC": "center defensive midfielder",
+    "AMC": "center attacking midfielder",
+    "FW": "forward",
+    "AMR": "right attacking midfielder",
+    "AML": "left attacking midfielder",
+    "DMR": "right defensive midfielder",
+    "DML": "left defensive midfielder",
+    "MC": "center midfielder",
+    "FWR": "right forward",
+    "FWL": "left forward",
+    "MR": "right midfielder",
+    "ML": "left midfielder",
+    "Sub": "substitution"
+}
