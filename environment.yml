@@ -1,4 +1,4 @@
-name: wa-event-data
+name: dynamicRAG
 channels:
   - pytorch
   - nvidia
